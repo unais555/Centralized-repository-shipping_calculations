@@ -1,5 +1,4 @@
  # Here is a new update by unaisuz69@gmail.com
- # Here is another update by unaisuz69@gmail.com
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
